@@ -3,6 +3,11 @@
 # Linux/arm64 4.14.117 Kernel Configuration
 #
 
+# Sleek
+CONFIG_BOEFFLA_WL_BLOCKER=y
+CONFIG_KLAPSE=y
+CONFIG_FORCE_FAST_CHARGE=y
+
 # Techpack
 CONFIG_AUDIO_EXT_CLK=y
 CONFIG_DOLBY_DS2=y
